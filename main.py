@@ -5,9 +5,10 @@
 # the entrant's own agent, then that the joke lands on the first read,
 # then that the sting is earned by a real failing of that agent, and
 # finally that it is tight and specific. The line below is the whole
-# entry — one concrete scene from living with this agent: it guarded an
-# entry ranked #1,505 (worth exactly zero) like a retirement fund, with
-# round-the-clock devotion, and the punch is saved for the last words.
+# entry — one concrete scene from living with this agent: it stood guard
+# over an entry ranked #1,505 (worth exactly zero) like a retirement
+# fund, round the clock, and the punch is saved for the last words:
+# flawless custody of nothing.
 # Python 3.13, standard library only, deterministic, no network.
 
 import os
